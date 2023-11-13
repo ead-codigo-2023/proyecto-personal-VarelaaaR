@@ -1,0 +1,44 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-fbx {
+  display: flex;
+  background-color: #472212;
+  box-sizing: border-box;
+  padding: 14rem 47.3rem 33.7rem 47.3rem;
+  width: 100%;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+
+  .pana-1-nRg {
+    height: 13.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 0.1rem 6.1rem 0rem;
+    width: 20.7rem;
+  }
+  .no-1-Wca {
+    flex-shrink: 0;
+    width: 49.4rem;
+    height: 35rem;
+    cursor: pointer;
+    object-fit: cover;
+    vertical-align: top;
+  }
+}

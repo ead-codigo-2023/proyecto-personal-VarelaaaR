@@ -1,0 +1,97 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-3-gyY {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-3-gyY .item-1696700287799-1-EkA {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-gyY .rectangle-1-NLa {
+  width: 131.1rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 4.4rem;
+  background-color: #472212;
+  border-radius: 2rem;
+}
+.desktop-3-gyY .nmero-de-contacto-56968975176-correo-crocharellagmailcom-instagram-crocharella-estamos-ubicados-en-manuel-rodriguez-1265-peablanca-comuna-villa-alemana-regin-de-valparaiso-6nN {
+  width: 61.8rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 42.25rem;
+  top: 48.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-3-gyY .pastelera-crocharella-busca-vender-sus-productos-en-dos-modalidades-presencial-online-uzi {
+  width: 49.3rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 48.3rem;
+  top: 27.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-3-gyY .contacto-LaE {
+  width: 17.2rem;
+  height: 8rem;
+  position: absolute;
+  left: 63rem;
+  top: 16.4rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-gyY .pana-3-FBQ {
+  width: 21.5rem;
+  height: 11.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 61.2rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-3-gyY .line-3-Bar {
+  width: 144rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0;
+  top: 12.3rem;
+  background-color: #f5ace5;
+}

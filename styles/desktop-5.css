@@ -1,0 +1,225 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-NRg {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-5-NRg .item-1696700287799-1-VmC {
+  width: 144rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-5-NRg .rectangle-1-ETt {
+  width: 131.1rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 4.4rem;
+  background-color: #472212;
+  border-radius: 2rem;
+}
+.desktop-5-NRg .rectangle-2-xug {
+  width: 131.1rem;
+  height: 93.6rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 4.4rem;
+  background-color: #472212;
+  border-radius: 2rem;
+}
+.desktop-5-NRg .frame-14-hMU {
+  width: 15.6rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 120.7rem;
+  top: 6.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #85674b;
+  border-radius: 1rem;
+}
+.desktop-5-NRg .item-1696728337650-2-Akr {
+  width: 11.9rem;
+  height: 78rem;
+  position: absolute;
+  left: 120.7rem;
+  top: 16rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-5-NRg .torta-chocolate-4500-torta-merengue-limn-4500-torta-crema-y-frutas-4500-torta-panqueque-naranja-manjar-4500-torta-panqueque-ciruela-manjar-4200-fBp {
+  width: 39.9rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 61.5rem;
+  top: 70.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-5-NRg .cheesecake-de-limn-3500-cheesecake-de-frutilla-3800-cheesecake-de-arndanos-3800-cheesecake-de-maracuy-4000-Hiz {
+  width: 34.7rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 38.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-5-NRg .frame-13-9FQ {
+  box-sizing: border-box;
+  padding: 0rem 4.8rem 0rem 4.1rem;
+  width: 15rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 64.5rem;
+  top: 61rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #85674b;
+  border-radius: 1rem;
+}
+.desktop-5-NRg .frame-12-24J {
+  box-sizing: border-box;
+  padding: 0rem 1.5rem 0rem 0.8rem;
+  width: 15rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 64.5rem;
+  top: 29.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #85674b;
+  border-radius: 1rem;
+}
+.desktop-5-NRg .tarta-de-manzana-2500-tarta-de-nuez-3000-tarta-de-arndanos-3000-pie-de-limn-2800-pie-2500-64A {
+  width: 28.9rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 70.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-5-NRg .frame-11-hZk {
+  box-sizing: border-box;
+  padding: 0rem 5.4rem 0rem 3.4rem;
+  width: 15rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 61rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #85674b;
+  border-radius: 1rem;
+}
+.desktop-5-NRg .pasteles-de-maicena-1500-brazo-de-reina-1500-rollitos-de-canela-1000-rollitos-de-canela-y-manzana-1200-rollitos-de-canela-y-frutilla-1500-galletones-de-cacao-amargo-1000-Ay8 {
+  width: 36.9rem;
+  height: 14.9rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 38.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.235;
+  color: #ffffff;
+  font-family: Copse, 'Source Sans Pro';
+}
+.desktop-5-NRg .frame-10-bYe {
+  box-sizing: border-box;
+  padding: 0rem 3.1rem 0rem 1.7rem;
+  width: 15rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 29.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #ffffff;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #85674b;
+  border-radius: 1rem;
+}
+.desktop-5-NRg .dulces-ga6 {
+  width: 11.6rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 37.3rem;
+  top: 16.6rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #f5ace5;
+  font-family: Sunshiney, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-NRg .pana-3-CoL {
+  width: 21.5rem;
+  height: 11.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 61.2rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-5-NRg .line-3-VnS {
+  width: 144rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0;
+  top: 12.3rem;
+  background-color: #f5ace5;
+}
